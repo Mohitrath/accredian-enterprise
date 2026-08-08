@@ -16,7 +16,10 @@ A modern, responsive **Next.js** implementation of an Accredian Enterprise-style
 
 ---
 
+<img width="1913" height="923" alt="Screenshot 2026-08-08 173834" src="https://github.com/user-attachments/assets/85948b15-0da7-4a5c-ab41-ea89a93f6551" />
+
 ## 📌 About the Project
+
 
 This project recreates a polished enterprise upskilling landing page focused on **AI, technology, data science, and leadership programs**.
 
