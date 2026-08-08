@@ -40,12 +40,10 @@ The implementation is intentionally component-driven so individual sections can 
 
 ## 🚀 Live Demo
 
-**Vercel:** `Add your Vercel deployment URL here`
+**Vercel:** https://accredian-enterprise-delta-orcin.vercel.app/
 
 **GitHub:**
 https://github.com/Mohitrath/accredian-enterprise
-
-Once the project is deployed, replace the Vercel placeholder above with the final `https://*.vercel.app` URL.
 
 ---
 
@@ -306,7 +304,7 @@ If more development time were available, I would focus on:
 
 | Requirement | Status |
 |---|---|
-| Live Vercel deployment | ⏳ Add deployment URL |
+| Live Vercel deployment | ✅ https://accredian-enterprise-delta-orcin.vercel.app/ |
 | GitHub repository | ✅ Available |
 | Setup instructions | ✅ Included |
 | Approach explanation | ✅ Included |
